@@ -1,2 +1,21 @@
-# dados-atletas
-Atividade de certificação para o curso Devstart, do Senai.
+# Dados atletas
+Atividade de certificação para o curso Devstart, do Senai. A proposta da ativiadade é a seguinte:
+  - Você deverá criar uma classe Atleta para concentrar os atributos e métodos dos atletas.
+  - A classe deverá receber os seguintes atributos:
+    - nome
+    - idade
+    - peso
+    - altura
+    - notas
+    - 
+  - A classe deverá possuir os seguintes métodos:
+    - calculaCategoria(), para calcular a categoria do atleta;
+    - calculaIMC(), para calcular o IMC do atleta;
+    - calculaMediaValida(), para calcular a média válida do atleta.
+    - obtemNomeAtleta(), que retorna o nome do atleta
+    - obtemIdadeAtleta(), que retorna a idade do atleta
+    - obtemPesoAtleta(), que retorna o peso do atleta
+    - obtemNotasAtleta(), que retorna as notas do atleta
+    - obtemCategoria(), que retorna a categoria do atleta
+    - obtemIMC(), que retorna o IMC do atleta
+    - obtemMediaValida(), que retorna a média válida do atleta
